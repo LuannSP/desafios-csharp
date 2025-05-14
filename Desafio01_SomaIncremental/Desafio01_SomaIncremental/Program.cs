@@ -4,14 +4,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        int INDICE = 13, SOMA = 0, K = 0;
+        const int indice = 13;
+        int soma = 0, k = 0;
 
-        while (K < INDICE)
+        while (k < indice)
         {
-            K = K + 1;
-            SOMA = SOMA + K;
+            k++;
+            soma += k;
         }
 
-        Console.WriteLine($"Valor final de SOMA: {SOMA}");
+        Console.WriteLine($"Valor final de soma: {soma}");
     }
 }
