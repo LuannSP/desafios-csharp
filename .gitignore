@@ -1,0 +1,67 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Microsoft Azure Functions Tools
+local.settings.json
+
+# Rider IDE
+.idea/
+
+# JetBrains Rider project files
+.idea/
+
+# ASP.NET Core project file
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# VS for Mac
+.vscode/
+
+# Ignore global files for NuGet
+.nuget/
+
+# Ignore all files related to Visual Studio build tools
+.vs2019/
+.vs2017/
+.vs2015/
+
+# Ignore test results
+TestResults/
+
+# Ignore the .NET Core SDK folder
+.dnx/
+
+# Ignore folder where dependencies are restored by the build tool
+packages/
