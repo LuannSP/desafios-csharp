@@ -4,11 +4,11 @@ Este repositório contém os desafios de programação realizados em **C#** para
 
 ## 📝 **Sumário**
 
-1. [Desafio 1 - Somar números até um índice pré-definido](#desafio-1)
-2. [Desafio 2 - Verificar número na sequência de Fibonacci](#desafio-2)
-3. [Desafio 3 - Faturamento mensal e cálculo de média](#desafio-3)
-4. [Desafio 4 - Cálculo de percentual de faturamento por estado](#desafio-4)
-5. [Desafio 5 - Inverter uma string manualmente](#desafio-5)
+1. [Desafio 1 - Somar números até um índice pré-definido](https://github.com/LuannSP/desafios-csharp/tree/master/Desafio01_SomaIncremental)
+2. [Desafio 2 - Verificar número na sequência de Fibonacci](https://github.com/LuannSP/desafios-csharp/tree/master/Desafio02_VerificaFibonacci)
+3. [Desafio 3 - Faturamento mensal e cálculo de média](https://github.com/LuannSP/desafios-csharp/tree/master/Desafio03_FaturamentoMensal)
+4. [Desafio 4 - Cálculo de percentual de faturamento por estado](https://github.com/LuannSP/desafios-csharp/tree/master/Desafio04_FaturamentoPorEstado)
+5. [Desafio 5 - Inverter uma string manualmente](https://github.com/LuannSP/desafios-csharp/tree/master/Desafio05_InverterString)
 
 ---
 
