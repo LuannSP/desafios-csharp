@@ -1,0 +1,15 @@
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\bin\Debug\net8.0\Desafio03_FaturamentoMensal.exe
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\bin\Debug\net8.0\Desafio03_FaturamentoMensal.deps.json
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\bin\Debug\net8.0\Desafio03_FaturamentoMensal.runtimeconfig.json
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\bin\Debug\net8.0\Desafio03_FaturamentoMensal.dll
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\bin\Debug\net8.0\Desafio03_FaturamentoMensal.pdb
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\obj\Debug\net8.0\Desafio03_FaturamentoMensal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\obj\Debug\net8.0\Desafio03_FaturamentoMensal.AssemblyInfoInputs.cache
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\obj\Debug\net8.0\Desafio03_FaturamentoMensal.AssemblyInfo.cs
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\obj\Debug\net8.0\Desafio03_FaturamentoMensal.csproj.CoreCompileInputs.cache
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\obj\Debug\net8.0\Desafio03_FaturamentoMensal.dll
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\obj\Debug\net8.0\refint\Desafio03_FaturamentoMensal.dll
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\obj\Debug\net8.0\Desafio03_FaturamentoMensal.pdb
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\obj\Debug\net8.0\Desafio03_FaturamentoMensal.genruntimeconfig.cache
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\obj\Debug\net8.0\ref\Desafio03_FaturamentoMensal.dll
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio03_FaturamentoMensal\Desafio03_FaturamentoMensal\bin\Debug\net8.0\faturamento.json

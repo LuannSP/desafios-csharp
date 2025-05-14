@@ -1,0 +1,14 @@
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\bin\Debug\net8.0\Desafio04_FaturamentoPorEstado.exe
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\bin\Debug\net8.0\Desafio04_FaturamentoPorEstado.deps.json
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\bin\Debug\net8.0\Desafio04_FaturamentoPorEstado.runtimeconfig.json
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\bin\Debug\net8.0\Desafio04_FaturamentoPorEstado.dll
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\bin\Debug\net8.0\Desafio04_FaturamentoPorEstado.pdb
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\obj\Debug\net8.0\Desafio04_FaturamentoPorEstado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\obj\Debug\net8.0\Desafio04_FaturamentoPorEstado.AssemblyInfoInputs.cache
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\obj\Debug\net8.0\Desafio04_FaturamentoPorEstado.AssemblyInfo.cs
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\obj\Debug\net8.0\Desafio04_FaturamentoPorEstado.csproj.CoreCompileInputs.cache
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\obj\Debug\net8.0\Desafio04_FaturamentoPorEstado.dll
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\obj\Debug\net8.0\refint\Desafio04_FaturamentoPorEstado.dll
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\obj\Debug\net8.0\Desafio04_FaturamentoPorEstado.pdb
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\obj\Debug\net8.0\Desafio04_FaturamentoPorEstado.genruntimeconfig.cache
+C:\Users\luann\OneDrive\Área de Trabalho\Desafios\Desafio04_FaturamentoPorEstado\Desafio04_FaturamentoPorEstado\obj\Debug\net8.0\ref\Desafio04_FaturamentoPorEstado.dll
